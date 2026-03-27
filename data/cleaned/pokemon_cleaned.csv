@@ -1,4 +1,4 @@
-ID,Name,Type_1,Type_2,Ability_1,Ability_2,Hidden_Ability,HP,Attack,Defense,Special_Attack,Special_Defense,Speed,Legendary,Mythical,Psuedo-Legendary
+ID,Name,Type_1,Type_2,Ability_1,Ability_2,Hidden_Ability,HP,Attack,Defense,Special_Attack,Special_Defense,Speed,Legendary,Mythical,Pseudo_Legendary
 1,bulbasaur,grass,poison,overgrow,,chlorophyll,45,49,49,65,65,45,False,False,False
 2,ivysaur,grass,poison,overgrow,,chlorophyll,60,62,63,80,80,60,False,False,False
 3,venusaur,grass,poison,overgrow,,chlorophyll,80,82,83,100,100,80,False,False,False
